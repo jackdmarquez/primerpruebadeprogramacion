@@ -1,6 +1,3 @@
-from cmath import cos
-
-
 def calcularDiasDosis(edadPaciente):
     di = 0
     if edadPaciente >= 60:
